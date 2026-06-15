@@ -367,7 +367,7 @@ Or open `tableau/Flipkart_Sales_Analytics_Final.twbx` in Tableau Desktop and con
 
 **Vaibhav Khandelwal**
 
-B.Tech Computer Science Engineering
+B.Tech Computer Science Engineering <br>
 Jaypee Institute of Information Technology, Noida
 
 [![GitHub](https://img.shields.io/badge/GitHub-Vaibhav--code15-black?logo=github)](https://github.com/Vaibhav-code15)
