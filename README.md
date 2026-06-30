@@ -324,6 +324,11 @@ Or open `tableau/Flipkart_Sales_Analytics_Final.twbx` in Tableau Desktop and con
 
 ---
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
 ## Author
 
 **Vaibhav Khandelwal**
